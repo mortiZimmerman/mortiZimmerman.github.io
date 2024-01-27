@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Blog Ortiz</title>
+    <link>file:///C:/Users/DAW%20TARDE/Desktop/RSS/index.html</link>
+    <description>Descripción de tu sitio web</description>
+    <language>es-es</language>
+    <pubDate>25/01/2024</pubDate>
+    <lastBuildDate>25/01/2024</lastBuildDate>
+    <managingEditor>mauricionicolasortiz@alumnos.cei.es</managingEditor>
+    <webMaster>mauricionicolasortiz@alumnos.cei.es</webMaster>
+
+    <!-- Ejemplo de una entrada en el feed -->
+    <item>
+      <title>WRC Montecarlo</title>
+      <link>https://es.motorsport.com/wrc/news/cronica-resultados-shakedown-montecarlo-2024-tanak/10568868/</link>
+      <description>Primer shakedown de 2024</description>
+      <pubDate>25/01/2024</pubDate>
+      <guid>WrcMontecarlo</guid>
+    </item>
+    <item>
+      <title>DAKAR 2024</title>
+      <link>https://www.mundodeportivo.com/motor/rallies/20240115/1002170721/carlos-sainz-envia-toda-fuerza-familiares-amigos-carles-falcon.html</link>
+      <description>Carlos Sainz envía toda su fuerza a los familiares y amigos de Carles Falcóna</description>
+      <pubDate>06/3/2024</pubDate>
+      <guid>DakPersonas</guid>
+    </item>
+        <item>
+      <title>WrcRallies</title>
+      <link>https://www.mundodeportivo.com/motor/rallies/20231206/1002148649/dani-sordo-seguira-ano-mas-hyundai.html</link>
+      <description>Hyundai Motorsport anuncia sus pilotos para 2024 y hay buenas noticias para Dani Sordo </description>
+      <pubDate>04/02/2024</pubDate>
+      <guid>WrcHyundai</guid>
+    </item>
+        <item>
+      <title>Drift Jarama</title>
+      <link>https://driftspainseries.com/drift-en-el-jarama/</link>
+      <description>Hubo un tiempo en el que el Drift en el Jarama era una especie de fruta prohibida. No se podía hacer en las tandas, no pasaba el campeonato de España, y durante años no se pudo disfrutar de esta modalidad en la Capital.</description>
+      <pubDate>25/01/2024</pubDate>
+      <guid>DrifJarama</guid>
+    </item>
+    <!-- Puedes agregar más entradas siguiendo la misma estructura -->
+
+  </channel>
+</rss>

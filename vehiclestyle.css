@@ -1,0 +1,30 @@
+.imagen {
+  position: relative;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  animation: desplazamiento 4s linear forwards;
+  border-radius: 10px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+.imagen:hover {
+  transform: scaleX(-1); 
+}
+
+@keyframes desplazamiento {
+  0% { left: -100%; }
+  100% { left: 50%; }
+}
+table {
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: violet;
+  color: white;
+        }
+        
+th,td {
+padding: 10px;
+border: 1px solid white;
+        }
